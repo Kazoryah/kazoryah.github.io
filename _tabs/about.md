@@ -1,7 +1,8 @@
 ---
+layout: about
 title: About
 icon: fas fa-info
-order: 4
+order: 0
 ---
 
 <img src="/assets/img/profile-pic.png" style="height: 300px">
