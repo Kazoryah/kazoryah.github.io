@@ -16,7 +16,7 @@ layout: page
      {{ site.category_desc[category] }}
   </p>
 
-  {% assign post_df = site.data.locales[lang].date_format.post.long %}
+  {% assign post_df = site.data.locales[lang].df.post.strftime %}
 
   {% assign sub_idx = 0 %}
   {% for post in page.posts %}

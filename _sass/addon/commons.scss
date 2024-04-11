@@ -352,7 +352,7 @@ sup {
     position: absolute;
     background-color: var(--card-hovor-bg);
     opacity: 0;
-    transition: opacity 0.35s ease-in-out;
+    transition: opacity 0.15s ease-in-out;
   }
 
   &:hover {
@@ -404,6 +404,7 @@ main {
   font-size: 1.08rem;
   margin-top: 2rem;
   overflow-wrap: break-word;
+  text-align: justify;
 
   a {
     &.popup {
