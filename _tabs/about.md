@@ -5,7 +5,7 @@ icon: fas fa-info
 order: 0
 ---
 <p align="center">
-<img src="/assets/img/profile-pic.png" style="height: 300px">
+<img alt="Me" src="/assets/img/profile-pic.png" style="height: 300px">
 </p>
 # Hi, I am Romain
 
